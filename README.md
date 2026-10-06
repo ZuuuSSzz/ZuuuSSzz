@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF9F&center=true&vCenter=true&width=640&lines=Building+AI+agents+that+hunt+threats;Breaking+%26+securing+LLMs;Threat+intel+%2B+agentic+AI+%3D+%E2%9D%A4%EF%B8%8F;Writing+about+AI+%26+security+as+Zusss" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF9F&center=true&vCenter=true&width=640&lines=Building+things+with+AI;Exploring+AI+%26+security;Sometimes+curious+about+neuroscience+%F0%9F%A7%A0;Writing+about+AI+%26+security+as+Zusss" alt="typing" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZuuuSSzz&color=00ff9f&style=for-the-badge&label=VISITORS" alt="visitors" />
   <a href="https://medium.com/@secret_zuss"><img src="https://img.shields.io/badge/Medium-@secret__zuss-000000?style=for-the-badge&logo=medium&logoColor=00ff9f" alt="Medium" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9f" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-ammar-ali-068023279"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9f" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 </details>
 
 <details open>
-<summary><b>🛡️ Security / Threat Intel</b></summary>
+<summary><b>🛡️ Security</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Elastic_SIEM-000000?style=for-the-badge&logo=elasticsearch&logoColor=00ff9f" />
