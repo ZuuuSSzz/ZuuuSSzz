@@ -5,22 +5,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF9F&center=true&vCenter=true&width=640&lines=Building+things+with+AI;Exploring+AI+%26+security;Sometimes+curious+about+neuroscience+%F0%9F%A7%A0;Writing+about+AI+%26+security+as+Zusss" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3FF&center=true&vCenter=true&width=640&lines=Building+things+with+AI;Exploring+AI+%26+security;Sometimes+curious+about+neuroscience+%F0%9F%A7%A0;Writing+about+AI+%26+security+as+Zusss" alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZuuuSSzz&color=00ff9f&style=for-the-badge&label=VISITORS" alt="visitors" />
-  <a href="https://medium.com/@secret_zuss"><img src="https://img.shields.io/badge/Medium-@secret__zuss-000000?style=for-the-badge&logo=medium&logoColor=00ff9f" alt="Medium" /></a>
-  <a href="https://www.linkedin.com/in/abdullah-ammar-ali-068023279"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9f" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ZuuuSSzz&color=4fc3ff&style=for-the-badge&label=VISITORS" alt="visitors" />
+  <a href="https://medium.com/@secret_zuss"><img src="https://img.shields.io/badge/Medium-@secret__zuss-05060f?style=for-the-badge&logo=medium&logoColor=4fc3ff" alt="Medium" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-ammar-ali-068023279"><img src="https://img.shields.io/badge/LinkedIn-Connect-05060f?style=for-the-badge&logo=linkedin&logoColor=4fc3ff" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="88%" alt="terminal session" />
+  <img src="./assets/terminal.svg" width="88%" alt="status window" />
 </p>
 
 ---
 
-### `zusss@ghost:~$ ls -la ./projects`
+### ⚔️ Quest Log
 
 | | Project | What it does | Stack |
 |---|---|---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-### `zusss@ghost:~$ cat ./.arsenal`
+### 🎒 Inventory
 
 <details open>
 <summary><b>🧠 AI / ML</b></summary>
@@ -41,12 +41,12 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00ff9f" />
-  <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=00ff9f" />
-  <img src="https://img.shields.io/badge/Qdrant-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docling-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=00ff9f" />
+  <img src="https://img.shields.io/badge/Ollama-05060f?style=for-the-badge&logo=ollama&logoColor=4fc3ff" />
+  <img src="https://img.shields.io/badge/vLLM-05060f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-05060f?style=for-the-badge&logo=anthropic&logoColor=4fc3ff" />
+  <img src="https://img.shields.io/badge/Qdrant-05060f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docling-05060f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging_Face-05060f?style=for-the-badge&logo=huggingface&logoColor=4fc3ff" />
 </p>
 </details>
 
@@ -54,12 +54,12 @@
 <summary><b>🛡️ Security</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/Elastic_SIEM-000000?style=for-the-badge&logo=elasticsearch&logoColor=00ff9f" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VirusTotal-000000?style=for-the-badge&logo=virustotal&logoColor=00ff9f" />
-  <img src="https://img.shields.io/badge/AbuseIPDB-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff9f" />
+  <img src="https://img.shields.io/badge/Elastic_SIEM-05060f?style=for-the-badge&logo=elasticsearch&logoColor=4fc3ff" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-05060f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shodan-05060f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VirusTotal-05060f?style=for-the-badge&logo=virustotal&logoColor=4fc3ff" />
+  <img src="https://img.shields.io/badge/AbuseIPDB-05060f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali_Linux-05060f?style=for-the-badge&logo=kalilinux&logoColor=4fc3ff" />
 </p>
 </details>
 
@@ -73,24 +73,24 @@
 
 ---
 
-### `zusss@ghost:~$ ./telemetry --live`
+### 📈 Player Stats
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-system.svg" width="100%" alt="3D contribution graph" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZuuuSSzz&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9&ring_color=00ff9f&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ZuuuSSzz&hide_border=true&background=000000&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=1b3a2c" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZuuuSSzz&show_icons=true&hide_border=true&bg_color=05060f&title_color=4fc3ff&icon_color=8b7bff&text_color=dbe4ff&ring_color=8b7bff&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ZuuuSSzz&hide_border=true&background=05060f&ring=8b7bff&fire=4fc3ff&currStreakLabel=4fc3ff&sideLabels=dbe4ff&currStreakNum=ffffff&sideNums=ffffff&dates=7d86a8&stroke=1c2340" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZuuuSSzz&bg_color=000000&color=00ff9f&line=00ff9f&point=ffffff&area=true&area_color=00ff9f&hide_border=true&custom_title=commit%20activity%20%2F%2F%20last%2031%20days" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZuuuSSzz&bg_color=05060f&color=4fc3ff&line=8b7bff&point=ffffff&area=true&area_color=4fc3ff&hide_border=true&custom_title=commit%20activity%20%2F%2F%20last%2031%20days" />
 </p>
 
 ---
 
-### `zusss@ghost:~$ tail -f ./medium/latest.log`
+### 📜 Chronicles: latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Auto-filled by GitHub Actions. Don't edit between these markers. -->
@@ -100,7 +100,7 @@
 
 ---
 
-### `zusss@ghost:~$ ./ctf --start`
+### 🗝️ Hidden Dungeon
 
 <details>
 <summary>🚩 <b>Mini CTF: there are 2 flags hidden on this page. Click to begin.</b></summary>
@@ -128,7 +128,7 @@ Flag 1: ROT13 first, then Base64-decode. Flag 2: view this README's raw source.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff9f,100:000000&height=3&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,50:8b7bff,100:05060f&height=3&section=footer" width="100%" />
   <br/>
-  <code>connection closed by remote host. stay curious.</code>
+  <code>[ session saved ] stay curious.</code>
 </p>
